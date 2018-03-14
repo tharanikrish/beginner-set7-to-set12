@@ -9,6 +9,6 @@ if(c%2==0)
 printf("\neven");
 }
 else
-printf("\nodd);
+printf("\nodd");
 return 0;
 }
