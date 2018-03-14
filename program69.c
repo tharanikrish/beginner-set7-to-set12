@@ -10,5 +10,5 @@ printf("\neven");
 }
 else
 printf("\nodd");
-return o;
+return 0;
 }
