@@ -11,6 +11,7 @@ if(a[i]==' ')
 {
 count=count+1;
 }
+  }
 printf("\n%d",count);
 return 0;
 }
