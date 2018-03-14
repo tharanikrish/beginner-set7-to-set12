@@ -10,9 +10,11 @@ if(a%i==0)
 flag=1;
 break;
 }}
-if(flag==1)
+if(flag==0)
 {
 printf("\nit is prime number");
 }
+  else
+    printf("\nnot a prime number");
 return 0;
 }
