@@ -13,6 +13,6 @@ break;
 }
 }
 c=pow(2,b);
-printf("\n%d",c)
+printf("\n%d",c);
 return 0;
 }
