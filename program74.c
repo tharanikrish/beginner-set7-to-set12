@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-double a;
+int a;
 int b;
-scanf("%ld",&a);
+scanf("%d",&a);
 b=a+1;
 printf("\n%d",b);
 return 0;
